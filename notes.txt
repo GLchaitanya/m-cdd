@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 version: 1.5 - Main Branch Diverge
+=======
+version: 3.0 - feature branch
+>>>>>>> feature-conflict
